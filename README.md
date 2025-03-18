@@ -26,3 +26,9 @@ For Ipad - Safari
 4. **Use the Code**
    - A. Navigate to the IXL lesson.
    - B. Click the bookmark you just created to apply the code.
+
+---
+
+### Need Help?
+
+If you need assistance, feel free to add me on Discord: **killerqueen2007**
